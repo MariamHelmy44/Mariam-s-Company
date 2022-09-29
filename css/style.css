@@ -1,0 +1,20 @@
+.navbar{
+    border-bottom: 4px solid #0098DA;
+}
+header{
+    min-height: 100vh;
+    background: linear-gradient(rgba(0,0,0,.7),rgba(0,0,0,.7) ) , url(../images/home.jpg);
+    background-position: center;
+    background-size: cover;
+    
+}
+
+
+
+
+
+@media only screen and (max-width: 800px) {
+    body {
+      background-color: red;
+    }
+  }
